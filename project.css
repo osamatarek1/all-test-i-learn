@@ -1,0 +1,2508 @@
+html {
+    font-size: 20px;
+   
+}
+
+body {
+    margin: 0%;
+    /*el 5sya de msh bt5le fe msa7a fe 2ol el sf7a fo2 btlz2 el shret fo2 */
+    /* background: linear-gradient(90deg,#FFFF00 6%,#FFA500 25%,#F14444 45%,#D53567 55%,#9A109A 94%); */
+  
+}
+
+
+
+/*hna ana msme kol el divat 2ly bt3rf 2l 5syat ely  3amlha fe el sf7a bt3ml eh be class wa7d*/
+
+div.inline {
+    /* width: 600px; */
+    /* height: 120px; */
+    margin: 0% auto;
+    /*el 5sya de btgeb el div fe nos el sf7a we lma btkbr el shasha aw ts8rha be el mos el div msh beboz ana bs shael el height we el width 3shan shklhm kda a7sn lakn ana kont 3amlo div so8er we gaybo fe el nos  */
+    background-color: rgb(18, 221, 62);
+    text-align: center;
+    font-weight: bolder;
+
+}
+
+
+
+
+
+
+/* m3lomat we tor2 azy tgeb ay band aw div fe el nos  */
+
+/* { */
+/*text-align:center              da btgeb be ay band fe el nos low msh 3amlow gadol aw 3oamed  */
+/* margin: 0% auto;               da begeb ay band fe el nos aw ay div m3mol gadol we msh beboz m3ak low el band inline 7olo block htsht8l m3ak bardo */
+
+/* position:absolute;                                                      [mohm gdn]el band da be7rk bnd el div lo7do we betl3o bra el 4 div a5oto we t2dr tt7km fe mn left we tob br7tk we tode ay mkan anta 7abo we efdl sabt makno met7rksh tb3n ht2ole ma 23mlo div lw7do b3ed 3n el divat de we 27rko h2olk tmam henf3 hna mgrd shr7 we anta br7tk m3loma lma bt7oto wst divat zy ma anta 3aml we 7ato wst 4 div be8ate 3la 25r div 2ly hwa el rab3 bs lma btdelo 5set tob aw left we t7rko bezhr el div el a5tfaf m3loma hwa msh beseb mkano fady 3ks el tany ely hwa [relative] */
+/* left:10px;                                                             [hna anta bt7rko emen we shmal mn 10px we ana shar7 t7t aho ln lazm tgrb low 3ozo fe el nos aw mkan m3en msh fe el agnab msh mt2kd mn shmal we emen mmkn tl2e ay 5sya mn el t7t el btode shmal we emen l2n ms7to 8zb 3ne] */
+/* top:10px;                                                              [hna anta bt7rko t7t we fo2 mn 10px we ana shar7 t7t aho ln lazm tgrb low 3ozo fe el nos aw mkan m3en msh fe el agnab] */
+
+
+
+
+/* } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* hna ana 3aml divat kol div gwa sor7a 7ttha mn el css be el band da [ background-image: url("eman.png")] we msh m5le ekrr el sora fe el div be el band da [background-repeat: no-repeat; we at3lmt azy a7rk el sora 25leha t7t 5als fe el div wla 3la el shmal wla 3la el emen be el band da [background-position: bottom right;] we at3lmt azy akbr el sora gwa el div we at7km feha br7ty akbrha nb el 3ard we el tol mn [background-size: 100px 100px;] we t2dr tt7km fe be el 100% zy kda [background-size: 80% 80px;] we m7ol el divat inline 3shan eb2o gnb b3d */
+
+div.assign-2-shape-1 {
+    height: 200px;
+    width: 250px;
+    background-color: rgb(20, 171, 241);
+    color: white;
+    background-image: url("eman.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+
+div.assign-2-shape-2 {
+    height: 200px;
+    width: 250px;
+    background-color: rgb(161, 29, 133);
+    color: white;
+    background-image: url("eman.png");
+    background-repeat: repeat-y;
+    display: inline-block;
+}
+
+div.assign-2-shape-3 {
+    height: 200px;
+    width: 250px;
+    background-color: rgb(43, 240, 25);
+    color: white;
+    background-image: url("eman.png");
+    background-repeat: repeat-x;
+    display: inline-block;
+}
+
+div.assign-2-shape-4 {
+    height: 200px;
+    width: 230px;
+    background-color: rgb(170, 159, 159);
+    color: white;
+    background-image: url("eman.png");
+    background-repeat: repeat;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+div.assign-3-shape-1 {
+    height: 200px;
+    width: 250px;
+    background-color: rgb(170, 159, 159);
+    color: white;
+    background-image: url("eman.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+
+div.assign-3-shape-2 {
+    height: 200px;
+    width: 250px;
+    background-color: rgb(170, 159, 159);
+    color: white;
+    background-image: url("eman.png");
+    background-position: right;
+    background-repeat: repeat-y;
+    display: inline-block;
+}
+
+div.assign-3-shape-3 {
+    height: 200px;
+    width: 250px;
+    background-color: rgb(170, 159, 159);
+    color: white;
+    background-image: url("eman.png");
+    background-repeat: repeat-x;
+    background-position: bottom;
+    display: inline-block;
+}
+
+div.assign-3-shape-4 {
+    height: 200px;
+    width: 230px;
+    background-color: rgb(170, 159, 159);
+    color: white;
+    background-image: url("eman.png");
+    background-repeat: repeat;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+div.assign-4-shape-1 {
+    height: 200px;
+    width: 250px;
+    background-color: rgb(170, 159, 159);
+    color: white;
+    background-image: url("eman.png");
+    background-repeat: no-repeat;
+    background-size: 200px 150px;
+    display: inline-block;
+}
+
+div.assign-4-shape-2 {
+    height: 200px;
+    width: 250px;
+    background-color: rgb(170, 159, 159);
+    color: white;
+    background-image: url("eman.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 200px 250px;
+    display: inline-block;
+}
+
+div.assign-4-shape-3 {
+    height: 200px;
+    width: 250px;
+    background-color: rgb(170, 159, 159);
+    color: white;
+    background-image: url("eman.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 250px 150px;
+    display: inline-block;
+}
+
+
+div.assign-4-shape-4 {
+    height: 200px;
+    width: 230px;
+    background-color: rgb(170, 159, 159);
+    color: white;
+    background-image: url("eman.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 100px 100px;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* hna ana m7ol el div inline 3shan ego el 3 gnb b3d we wasm el [p] msh mdelo center ana gayb el klam gwa ln mkbr 7gm el div mn el emen we el shmal 3shan el klam eb2a fe el nos fe el 3 div 3aml kda  */
+
+
+div.ahmed {
+    background-color: rgb(255, 254, 254);
+    padding: 40px;
+    border: 1px solid rgb(230, 229, 229);
+
+}
+
+
+
+div.osama1 {
+    background-color: rgb(178, 181, 184);
+    display: inline-block;
+    padding: 30px;
+    outline: 5px solid black;
+    /*da 2ly belon mrb3 el div aswod mn el 5arg */
+    border: 5px solid red;
+    /*da 2ly belon mrb3 el div 27mr mn el da5l */
+    margin-left: 10px;
+
+}
+
+
+
+div.osama2 {
+    background-color: rgb(178, 181, 184);
+    display: inline-block;
+    padding: 30px;
+    outline: 5px solid black;
+    border: solid 5px;
+    border-color: blue green blue green;
+    margin-left: 25px;
+}
+
+
+div.osama3 {
+    background-color: rgb(178, 181, 184);
+    display: inline-block;
+    padding: 30px;
+    outline: 5px solid black;
+    border: 5px dashed;
+    border-color: red green blue yellow;
+
+    margin-left: 23px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* hna ana 3aml 3 div we 5afe wa7d fehm be 5asyt [visibility:hidden] we 3aml [border left ] */
+
+
+
+div.smsm {
+    background-color: rgb(255, 254, 254);
+    border: 1px solid rgb(230, 229, 229);
+    height: 300px;
+}
+
+div.osama4 {
+
+    background-color: rgb(223, 219, 219);
+    height: 70px;
+    margin-top: 10px;
+    width: 750px;
+    margin-left: 17px;
+    padding-bottom: 17px;
+
+}
+
+div.osama5 {
+    background-color: rgb(223, 219, 219);
+    height: 70px;
+    margin-top: 10px;
+    width: 750px;
+    margin-left: 17px;
+    padding-bottom: 17px;
+    visibility: hidden;
+   
+    /*  el band da 2ly 5fa el div we saeb mkano m7foz */
+}
+
+div.osama6 {
+    background-color: rgb(223, 219, 219);
+    height: 70px;
+    margin-top: 10px;
+    width: 750px;
+    margin-left: 17px;
+    /* border-left: 6px solid red; */
+    padding-bottom: 17px;
+}
+
+h2.osamaa {
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+
+    border-left: 8px solid rgb(202, 9, 9);
+    padding: 10px;
+}
+
+h2.osamaaa {
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-left: 8px solid red;
+    padding: 10px;
+}
+
+
+h2.osamaaaa {
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-left: 8px solid rgb(83, 156, 41);
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* hna ana 3aml 5set el t3shesh 2ly at3lmtha be m3na wsom el p mt3rfa be nfs asm el class zy b3d fa azy hde le kol class fehm lwon m3en we hma kolhm nfs asm el class 3mlta be 5set el t3shesh any 23rf el wasm be el div 2l r2ese bta3o  */
+
+div.parent {
+    background-color: white;
+    border: 1px solid rgb(230, 229, 229);
+    height: 100px;
+}
+
+.child .title {
+    background-color: red;
+}
+
+span.title {
+
+    background-color: blue;
+}
+
+.parent p {
+    background-color: green;
+    width: 150px;
+
+}
+
+div.title {
+    background-color: green;
+    width: 120px;
+
+}
+
+
+
+
+
+
+
+
+
+
+/* hna 3aml 4x div a5r div fehm 7gm el width bta3o so8er 3la el klam el gwa fa el klam kan tal3 mn el div mn t7t we nazl le t7t 5fetp be band [overflow-y:hidden] m3na [y] e3ny 25fe ely t7t  */
+
+
+div.osos {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(230, 229, 229);
+    width: 450px;
+    height: 350px;
+}
+
+div.osos1 {
+    width: 220px;
+
+    background-color: red;
+}
+
+div.osos2 {
+    width: 220px;
+    background-color: red;
+}
+
+div.osos3 {
+    width: 280px;
+
+    background-color: red;
+}
+
+div.osos4 {
+
+    width: 400px;
+    height: 100px;
+    background-color: red;
+    /*overflow-y: hidden;*/
+   overflow-x: hidden;
+    /*de el 5aft el div 2ly tal3 mno el klam  */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* hna el div 2ly 3amlo  [text-shadow:] we mzbt el asm  be 3 Alwon m5tlfen fo2 b3d 8er el lwon el rab3 bta3 asm el wasm nfso  */
+
+div.smasm6 {
+    background-color: white;
+    border: 1px solid rgb(230, 229, 229);
+    height: 250px;
+    width: 850px;
+    text-align: center;
+}
+
+h1.smasm {
+    margin-top: 60px;
+    text-shadow: -1px -2px 0px royalblue, -3px -3px 0px red, -3px -8px 0px black;
+
+
+    color: blueviolet;
+
+
+    font-size: 4em;
+
+    font-family: sans-serif;
+    /* text-shadow: -2px 0px 0px rgb(11 115 212); */
+
+}
+
+
+
+div.smasm7 {
+    background-color: white;
+    border: 1px solid rgb(230, 229, 229);
+    height: 200px;
+    width: 850px;
+    text-align: center;
+}
+
+h1.smasmm {
+    margin-top: 60px;
+
+
+
+    color: blueviolet;
+
+
+    font-size: 4em;
+
+    text-shadow: -2px 0px 0px rgb(11 115 212);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* hna el div 2ly fe 3 stor fehm a5r  str m5ltsh el klam fe etkrr we  enzl t7t b3do we 5lto kolo eb2a fe str wa7d  be 5aset [white-space: nowrap;]we 5afet el klam  2ly tal3 bra be 5aset  [ overflow: hidden; ] we 3mly 5set ano edef el .... we e3rfhm an fe klam mtshal zyada  be 5aset [text-overflow: ellipsis;] */
+
+div.ahmed1 {
+    background-color: white;
+    border: 1px solid rgb(228, 223, 223);
+    width: 400px;
+    height: 220px;
+    padding: 10px;
+}
+
+div.ahmed2 {
+    background-color: rgb(240, 233, 233);
+    width: 400px
+}
+
+div.ahmed3 {
+    background-color: rgb(240, 233, 233);
+    width: 400px
+}
+
+div.ahmed4 {
+    background-color: rgb(240, 233, 233);
+    width: 400px;
+    white-space: nowrap;
+    /*hna b2ol le el klam mttkrrsh */
+    overflow: hidden;
+    /*hna ana b5fe el klam 2lu 5arg bra  */
+    text-overflow: ellipsis;
+    /*hna ana 3mlt 5set ano e7ot 3x ... no2t tlk2y 3shan e3rfhm ano fe klam mtshal zyada  */
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* hna div 2ly mktob gwa el zero we 3amlo border a5dr mn t7t bs  we 3aml el Link bdon class we m3rfo fe css be 5sya el T3shesh we m5le 2ol 7arf we 25r 7rf fe klmt el zero captil be wasm [ text-transform: capitalize; ]*/
+
+
+div.link1 {
+    background-color: white;
+    border: 1px solid rgb(238, 232, 232);
+    height: 200px;
+    width: 500px;
+    margin: auto;
+
+
+}
+
+div.link2 {
+    background-color: rgb(63, 119, 61);
+    border-bottom: 13px solid rgb(39, 16, 16);
+    height: 120px;
+    width: 330px;
+    margin-left: 80px;
+    margin-top: 23px;
+    padding: 10px;
+
+}
+
+.link2 a {
+    display: block;
+    color: rgb(248, 245, 245);
+    text-align: center;
+    text-decoration: none;
+    margin-top: 15px;
+    font-size: 90px;
+    text-transform: capitalize;
+    font-family: sans-serif;
+
+}
+
+
+
+
+
+
+
+
+/* hna ana mst5dm 5set  border: inherit; padding: inherit; be m3na b5le ay band gwa div aw ay 3onsr gwa ay 7aga t5so adelo nfs 5syat el div el R2ese bta3o bdl ma a23d 2ktb el 5syat fa b5tsr el donya beha we kman 3aml 5set el t3shesh ln msh mde wasm el [p] we el [span] class we zabt el klma fe el nos be el [span] m7olha le block we mdeha margin-top */
+
+
+div.tarek {
+    padding: 20px;
+    background-color: white;
+    border: 3px solid rgb(243, 236, 236);
+}
+
+div.tarek1 {
+    height: 150px;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(209, 25, 34);
+    padding: 10px 10px 10px 10px;
+}
+
+.tarek1 p {
+    height: 85px;
+    border: inherit;
+    padding: inherit;
+    background-color: rgb(184, 179, 179);
+}
+
+.tarek span {
+    display: block;
+    margin-top: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+/* hna el  div 2ly fe 3x bnod 3mlhm be el font-fimly we m8er ano3 el 5toto we 3aoz ab2a at3lm tre2a azy 2nzl 5at fe el sf7a be tre2t el link 2ly bdefo fe el head  */
+
+div.fahme {
+    background-color: white;
+    border: 1px solid rgb(216, 213, 213);
+
+    height: 310px;
+
+}
+
+
+h1.fahme1 {
+
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: lighter;
+    /* el band da bezhr el klam bs be5le el klam 5fef we hade  */
+}
+
+
+
+h1.fahme2 {
+    font-family: 'Cairo';
+    text-align: center;
+    font-weight: 900px;
+}
+
+h1.fahme3 {
+
+    text-align: center;
+
+    font-family: 'Jomhuria';
+    font-size: 30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+/* hna el div 2ly fe 3x bnod mst5dm fehm el Rem bta3 7gm el 5at kont t2der t3mlo be el px  */
+
+
+div.fahme0 {
+    background-color: rgb(250, 245, 245);
+
+    height: 300px;
+    border: 1px solid rgb(187, 183, 183);
+    text-align: center;
+    font-family: sans-serif;
+}
+
+p.fahme00 {
+    font-size: 2.5rem;
+}
+
+p.fahme000 {
+    font-size: 2rem;
+}
+
+
+p.fahme0000 {
+    font-size: 1.5rem;
+}
+
+
+
+
+
+
+
+
+/* hna t3lem 5asya el [float] + el [kalkolet] 2y hya tre2a toze3 el 3nasr fe el div be m3na t3lem toeze3 el width we el hight s7  */
+
+/* we kan talp mne 7gm el div el r2ese 800px  */
+
+div.mohamed {
+    width: 800px;
+    background-color: #eeeeee;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+
+}
+
+
+
+
+div.mohamed1 {
+    width: calc((800px - 30px) / 1);
+}
+
+div.mohamed2 {
+    width: calc((800px - 60px) / 3);
+}
+
+div.mohamed3 {
+    width: calc((800px - 45px) / 2);
+}
+
+div.mohamed4 {
+    width: calc((800px - 75px) / 4);
+}
+
+.mohamed1,
+.mohamed2,
+.mohamed3,
+.mohamed4 {
+    background-color: #dddddd;
+    padding: 30px 0;
+    float: left;
+    margin: 15px 0 0 15px;
+}
+
+div.mohamed4 {
+    margin-bottom: 15px;
+}
+
+p.teta {
+    clear: both;
+}
+
+
+
+
+
+
+
+
+/* hna t3lem 5aset shfafet el lwon we azy t5le el lwon 5fef aw barz */
+div.tony0 {
+
+
+    font-family: Tahoma;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 3px solid rgba(230, 218, 218, 0.877);
+    font-weight: bolder;
+}
+
+
+div.tony {
+    margin: 20px auto;
+    width: 800px;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 20px;
+    background-color: #aaaaaa;
+
+    color: black;
+}
+
+div.tony1 {
+    margin: 20px auto;
+    width: 800px;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 20px;
+    background-color: #aaaaaa;
+    opacity: 0.3;
+    color: black;
+}
+
+div.tony2 {
+    margin: 20px auto;
+    width: 800px;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 20px;
+    background-color: #aaaaaa;
+    opacity: 0.1;
+    color: black;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* hna ana 3aml 4x div we m7rkhm we 3amlhm shakl be ast5dam el [position: absolute;] we mde el div el r2ese [position: relative;] 3shan a2dr a7rk el 4 divt gwa el div el r2ese  */
+/* we mst5dm [z-index: 2;] de btt7km fe anho div 3aozo fo2 el tany el div 2ly bya5d rkm 23la mn el tany hwa ely bekon el 2ol */
+/* m3lma kan el emt7an ano ekon bdon div r2ese ana 3mlto t7t el tnskat de we 3mlt da be div r2ese bsbb low kont 3amlto zy ma hwa talp kan sayb mkano m7foz 3shan kda 3mlto hna be el [abslote] we 5let div r2ese bsb ana 7att 7gat ktet fe el sf7a kan hetl3 fo2 lma 23ml [left] we [top] */
+
+
+div.xdiv {
+    background-color: rgb(238, 238, 238);
+    position: relative;
+    border: 1px solid rgb(15, 5, 5);
+    width: 300px;
+    height: 200px;
+}
+
+div.green {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+    left: 40px;
+    top: 40px;
+    z-index: 2;
+
+
+}
+
+div.red {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    left: 60px;
+    top: 60px;
+    z-index: 3;
+}
+
+div.blue {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    z-index: 1;
+
+
+
+
+
+}
+
+div.black {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    left: 20px;
+    top: 40px
+}
+
+/* da el tnsek ely kan mtlop mn osama da be don div r2ese zy ma hwa talp bs htl2ehm sayben mknhm ln el [relative] be7afz 3la mkano fa 3shan kda 3mlt ely fo2 */
+
+/* div.green{ 
+         width: 100px;
+         height: 100px;
+         background-color: green;
+        position: relative;
+        left:30px;
+        top:10px;
+        z-index:4;
+       
+
+        
+      }
+
+      div.red{
+        width: 100px;
+        height: 100px;
+        background-color: red;
+        position: relative;
+        left:47px;
+        bottom:80px;
+        z-index:5;
+        
+    }
+
+    div.blue{
+        width: 100px;
+        height: 100px;
+        background-color: blue;
+         position: relative;
+        left: 20px;
+        bottom: 200px;
+        z-index:3;
+
+        
+       
+    }
+    div.black{
+        width: 100px;
+        height: 100px;
+        background-color: black;
+        position: relative;
+        bottom: 290px;
+    left: 20px;
+   
+    
+        
+    } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* [hna ana mt3lm azy 27rk 4x span  be we 23mlhm so8eren be [position: absolute;] we mde el div el r2ese bt3hm [position: relative;]3shan a2dr 27rkhm we mebzosh we gayb el div fe nos el sf7a be [ margin: 0% auto;] we mkbr el 7gm bta3 mrb3 el span[ be padding]] */
+
+
+div.tmtm {
+    width: 400px;
+    border: 3px solid;
+    border-color: red rgb(33, 149, 202) red rgb(33, 149, 202);
+    margin: 0% auto;
+    text-align: center;
+    position: relative;
+
+}
+
+
+span.top-left {
+    background-color: rgb(33, 149, 202);
+    border-right: 3px solid red;
+    padding: 5px 20px 5px 20px;
+    /* position: relative; */
+    /* left:-318px; */
+    /* bottom: 104px; */
+    position: absolute;
+    top: -18px;
+    left: -26px;
+}
+
+
+span.bottom-left {
+    background-color: rgb(33, 149, 202);
+    border-right: 3px solid red;
+    padding: 5px 20px 5px 20px;
+    /* position: relative; */
+    /* left:-318px; */
+    /* bottom: 104px; */
+    position: absolute;
+    bottom: -18px;
+    left: -26px
+}
+
+span.top-right {
+
+    background-color: rgb(33, 149, 202);
+    border-left: 3px solid red;
+    padding: 5px 20px 5px 20px;
+    /* position: relative; */
+    /* left:-318px; */
+    /* bottom: 104px; */
+    position: absolute;
+    top: 102px;
+    right: -30px;
+}
+
+span.bottom-right {
+    background-color: rgb(33, 149, 202);
+    border-left: 3px solid red;
+    padding: 5px 20px 5px 20px;
+    /* position: relative; */
+    /* left:-318px; */
+    /* bottom: 104px; */
+    position: absolute;
+    bottom: 102px;
+    right: -30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* hna shar7 Azy azbt [li] + [il]+[ol] we m3lmk el 5syat 2ly el sf7a btdeha le el 5syat de tlka2y we 3aml azy t5le el kayma t3ml arkam 2ly 3ozha zy 10/11/12 2ly fe 2ol gadol we el shakl el sene we m3lmk azy t2dr t5le el 3lmat el bara el gadola gwa el div be [list-style-position: inside;] we b3lmk azt t7rk  sharet ely feha el klam ely gwa el div ln el sf7a btkon mdeha 5asya de[ padding-inline-start:0px] ana 5ltha 0 3shan 27rkm 3la el shmal el shreten el t7t klmt javascript */
+
+
+
+ul.kayma {
+    width: 400px;
+}
+
+li.kayma1 {
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    padding: 10px;
+
+}
+
+li.kayma6 {
+
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    padding: 10px;
+    list-style-type: upper-roman;
+    /* de 2ly 3amla el shakl bta3 [X/Xl/xll] ely fe el gadol el tany */
+
+}
+
+li.kayma2 {
+    background-color: #eee;
+    margin-bottom: 20px;
+    padding: 10px;
+    list-style: none;
+
+
+}
+
+
+li.kayma0 {
+    background-color: #eee;
+    margin-bottom: 20px;
+    padding: 10px;
+    list-style: none;
+    /*de bt5lek tl8e el shakl ely bekon odam el name ely beosf el gadol el sf7a brdeha shakl tlk2y ana 3mlha [none] hna 3shan al8e el shakl */
+
+
+}
+
+ul.gylo9 {
+
+    margin: 15px;
+    margin-left: 0px;
+    padding-inline-start: 0px
+        /* de 2ly bt5le el shreten 2ly fe klma javascript tt7km fehm emen we shmal ln el sf7a btb2a 3mlhm tlk2y */
+}
+
+/* ul  li .kayma1  */
+/* ul  li .a7oto */
+
+li.kayma5 {
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding: 20px 20px 5px 9px;
+    list-style-position: inside;
+    /*de 5alt el el shakl 2ly zy 10/11/12 e5osho gwa hna ana m5le ely do2r t5sh gwa el morb3 msh bra zy el fo2ehm */
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*hna shar7 azy 23ml gadol be [table] we [thead] we [tr] we [td] we mt3lm azy adef 5anten fe 5ana we mt3lm azy 2l8e el 5syat bta3t el gadol ely el sf7a btdeha tlka2y lzm trg3 html we css 3shan tfhm we t3rfhm*/
+
+
+
+
+table.hard {
+    width: 700px;
+    border-spacing: 0px;
+    margin: 0px auto;
+    border-collapse: collapse;
+    /*da 2ly beos3 el 5toto bta3t el gadol shoya  */
+    /* border-collapse: inherit;                        beos3 el 5at akbt shoya */
+    /* border-collapse: separate;                  akbt mn el fo2 aw el 3ks grbhm  */
+
+}
+
+.hard1 td {
+    padding: 15px;
+    background-color: rgb(24, 23, 23);
+    border: 2px solid #e2e2e2;
+    color: white;
+    text-align: center;
+
+
+
+}
+
+
+.hard2 td {
+    padding: 15px;
+    background-color: #eee;
+    border: 2px solid #ffffff;
+
+    text-align: center;
+
+
+
+}
+
+a.red11 {
+    background-color: red;
+    padding: 3px 3px 3px 3px;
+    text-decoration: none;
+    color: white;
+    border: 1px solid rgb(124, 247, 9);
+}
+
+a.red10 {
+    background-color: rgb(0, 183, 255);
+    padding: 3px 3px 3px 3px;
+    text-decoration: none;
+    color: white;
+    border: 1px solid rgb(124, 247, 9);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* hna ana mst5dm 5set [empty] we de btt7t fe el css b3d class el div we btdeha el lwon ely 7abo be m3na ay div fady mfehosh klam zy ely fe el nos el 27mr da bt2dr tlwono we t2dr t3ml kda fe kol el divat el fadya ely fe el sf7a low mdthmsh el clas zy ma ana m7dd hna low 3aoz tde el 5saya le ay div fe el sf7a msh mtlwon btkon kda fe el css [::empty] tkon fadya bdon 3shan tmshe 3la el sff7a kolha   */
+
+
+
+.rem0 {
+    background-color: rgb(250, 250, 250);
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    padding: 10px;
+    position: relative;
+    border: 1px solid rgb(212, 208, 208);
+}
+
+
+.rem {
+    height: 60px;
+    width: 300px;
+    background-color: rgba(202, 198, 198, 0.842);
+    text-align: center;
+
+    margin: 30px auto;
+
+}
+
+
+
+.rem1 {
+    height: 60px;
+    width: 300px;
+
+    text-align: center;
+
+    margin: 30px auto;
+
+
+}
+
+
+
+
+
+.rem2 {
+
+    height: 60px;
+    width: 300px;
+    background-color: rgba(202, 198, 198, 0.842);
+    text-align: center;
+
+    margin: 30px auto;
+
+
+}
+
+span.rem5 {
+    position: absolute;
+    color: black;
+    left: 190px;
+    top: 240px;
+    font-weight: bold;
+}
+
+span.rem4 {
+    position: absolute;
+    left: 200px;
+    bottom: 240px;
+    color: black;
+    font-weight: bold;
+}
+
+.rem1:empty {
+    /*hna anta bt2olo 5le el div 2ly be el class da lwono 27mr m3na klmt [empty] e3ny ay 3onsr mfehosh klam btdelo ay 5saya anta 3ozha mmkn tktb [empty]bs we s3tha he3ml el 5syat 2ly htdehalo le ay 3onsr fady fe el sf7a lnk m7dttsh anho wa7d 3aoz t3mlo */
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* hna ana 3aml lma ados 3la morb3 el password et8er el lwon bta3o be 5sya [focs] we 3aml lma ashaor 3la el link et8er lwono be 5set [hover] we 3aml lma ad8t 3la el morb3 bta3 3lamt s7 el label ely gnbo etlwon we el morb3 ely t7to lma b3ml 3leh 3lamt s7 el [label] ely gnb el morb3 be5tfe bt3mla be ank bt3rf el class bta3 el input we el label we btdehm el 5sya zy kda  anta bt2olo 25fe lma 23ml 3lmt s7 [.sh:checked+label] el 5sya [display:none] we 3shan t3ml lma tdos label ttlwon kda [.ch:checked+label{background-color:yalwo]} */
+
+
+
+div.asma22 {
+    background-color: white;
+    border: 1px solid rgb(196, 188, 188);
+    width: 350px;
+    height: 450px;
+    margin: auto;
+    padding: 10px;
+    position: relative;
+}
+
+div.asma2 {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+
+}
+
+.asma2:empty {
+    background-color: red;
+}
+
+
+
+
+a.asma21 {
+
+    text-decoration: none;
+    margin-left: 15px;
+    color: rgb(192, 25, 136);
+}
+
+a.asma21:hover {
+    color: red;
+}
+
+/* a.asma21:visited{                    el mfrod an da be8er lwon el link le el sh5s el zar el mok3
+        /* color:rgb(47, 240, 9) 
+    }*/
+
+
+input.in {
+    background-color: rgb(2, 2, 27);
+    border: 3px solid rgb(240, 8, 8);
+    margin: auto;
+    display: block;
+    outline: none;
+    color: white;
+
+}
+
+.in:focus {
+    background-color: rgb(241, 8, 8);
+    border: 3px solid rgb(8, 1, 7);
+
+}
+
+.ch {
+
+    display: block;
+    float: left;
+    margin-top: 25px;
+    margin-left: 120px;
+
+
+}
+
+
+.asma24 {
+
+    display: block;
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+
+.ch:checked+label {
+    color: yellow;
+}
+
+.asma25 {
+
+    display: block;
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+
+.sh {
+    display: block;
+    float: left;
+    margin-top: 25px;
+    margin-left: 120px;
+    /* background-color: red; */
+
+
+    /* background-color: initial; */
+  
+    
+  
+    
+   
+    
+
+}
+
+.sh:checked+label {
+    /*m3na da b2olo 2ol ma ados 3la el morb3 ely be3ml 3lama s7 e5tfy*/
+    display: none;
+    /*hna b2olo 2ol ma ados 3la el morb3 e5tfy*/
+   
+
+
+
+}
+
+
+.asma26 {
+    display: block;
+    position: absolute;
+    top: 350px;
+    left: 160px;
+    background-color: red;
+    border: none;
+    color: white;
+    cursor: pointer;
+    padding: 5px;
+    margin: none;
+
+}
+
+.asma26:focus {
+    border: 1px solid black;
+}
+
+
+
+
+
+
+
+
+
+/* tgarb########################################### */
+
+
+ div.icon{
+   
+    margin: 0% auto;
+    width: 500px;
+    height: 120px;
+    border: 10px solid transparent;
+    text-align: center;
+    font-size: 70px;
+    
+
+
+}
+
+.icon1{
+    
+    position: relative;
+    top:20px;
+    left:5px;
+    color: red;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* hna ana mst5m 5set [::first-letter] we de bt3mla gnb el class bta3 el div we de zy el span bt2dr mnha tlwon 2ol 7arf mn el klam  zy ma ana 3aml we t2dr tlwon 2ol satr mn el klam mhma kabr el shasha aw s8erta e3ny low mn 3la tlfon aw shashsa kbera 2ol str hekon mtlwon be el 5sya de [::first-line] ln m3mlthash hna   */
+
+.bhera1 {
+    border: 1px solid rgb(197, 192, 192);
+    width: 420px;
+    height: 150px;
+    margin: auto;
+    position: relative;
+
+}
+
+.bhera {
+    text-align: center;
+    display: block;
+    position: absolute;
+    left: -33px;
+    top: 38px;
+
+
+}
+
+.bhera::first-letter {
+
+    color: rgb(255, 255, 255);
+    background-color: red;
+    font-size: 50px;
+
+
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* hna ana mst5dm 5sya [befor+after] we de bt3mlk band mozaef ze el sahm 2ly tal3 mn el porder we 3aml shkl we zy el 3x div bt3o osama we ahmed we sayed kol dol 5syat mozyfa 3mlha mn el css we mt7km feha be [postin:reiltive] m3loma 3shan t3ml el 3 divat 2ly mktobfehm osama we ahmed we sayed lazm t7t fe el html gnb el class prgraf el gomla de data-person="Osama"> we lazm we anta bt3ml el div el whmy bta3 el asmy de t7t fe div el whmy after el class da [content: attr(data-person);]  we tbd2 tzbthm m3loma ana 7tet nfs el asm 2ly kan fe el html we ana 7tet el class ely fe el html bsbb hktb gomla fe el div 2ly hya osama we ahmed we sayed lakn el div 2ly 3amlo sahm da 3amlo be el el css bs we s3tha bt7t fe el div after zy ma atf2na we gwa el div el clas da asasy [ content: "";] we btsebo fady low 7abb tktb fe el klama ely htktbha htzr fe el div  */
+
+div.befor1 {
+    margin: auto;
+    width: 800px;
+    height: 290px;
+    border: 3px solid whitesmoke;
+    position: relative;
+    padding-bottom: 48px;
+
+}
+
+
+div.befor1 p {
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 210px;
+    position: relative;
+    height: 50px;
+    width: 550px;
+    background-color: whitesmoke;
+    padding-top: 23px;
+    border-left: 10px solid green;
+
+
+
+
+}
+
+div.befor1 p::before {
+    content: attr(data-person);
+    background-color: rgb(182, 175, 175);
+
+    color: black;
+
+    width: 100px;
+    height: 15px;
+    padding-top: 5px;
+    padding-bottom: 12px;
+    position: absolute;
+    left: -180px;
+    top: 18px;
+
+}
+
+div.befor1 p::after {
+    content: "";
+    /* background-color: red; */
+    height: 0px;
+    width: 0px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: transparent green transparent transparent;
+    left: -30px;
+
+    position: absolute;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* hna ana mst5dm bardo 5syt [befor+after] we el arkam ely gwa el div de 123456 dol 3mlhm be 5sya ely bt3d el  divat we btrkmhm hya de [counter-increment: members-count;] we el 5sya de lazm t7otha el 2ol fe el div ely fe el prgraf we b3d kda bt7t nfs el 5sya fe div el [after] aho content: counter(members-count); btktb nfs el gmla ely ktbtha fe 2ol mra be5tlf klmt counter */
+
+
+div.afteer16 {
+    margin: auto;
+    width: 700px;
+    height: 620px;
+    border: 3px solid whitesmoke;
+
+
+
+
+
+
+}
+
+
+div.afteer16 p {
+
+    background-color: rgb(192, 181, 181);
+    width: 600px;
+    height: 40px;
+    position: relative;
+    margin-left: 60px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    border-right: 5px solid red;
+    counter-increment: members-count;
+}
+
+div.afteer16 p::before {
+    content: counter(members-count);
+    position: absolute;
+    left: -45px;
+    background-color: red;
+    width: 55px;
+    height: 50px;
+    bottom: 0px;
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*hna ana b3lmk azy tl8e el shakl bta3 [ul] we t7t bdalo shkl we ana 3aml el shakl el sahm be div m5fe be 5syat [befor] we 5afe el 3 agza2 bto3 el div 2ly mtl3 mno el sahm be 5set [transparent] el lwon el shfaf*/
+
+
+div.ul {
+    margin: auto;
+    border: 2px solid whitesmoke;
+    height: 160px;
+    width: 100px;
+    padding-bottom: 15px;
+}
+
+
+ul.ul1 {
+    list-style: none;
+    text-align: center;
+
+
+}
+
+li.li1 {
+    margin-left: -20px;
+    margin-bottom: 5px;
+    position: relative;
+    color: rgb(17, 184, 106);
+}
+
+.ul1 li::after {
+    content: "";
+    position: absolute;
+    border-width: 10px;
+    border-style: solid;
+    border-color: transparent green transparent transparent;
+    height: 0px;
+    width: 0px;
+    left: -20px;
+    top: 2px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        /* hna ana ast5dmt el [box-shadow: 8px 8px 2px  #00bcd4, -8px -8px 0px #e91e63;] 3shan atl3 el lwonen 2ly 5rgen mn el div 2l dera el lwon el 27mr we el labny m3loma anta t2dr t3ml mnha rosmat we 7gat kter bs 3oza w2t we trkez ab2a zkrha koes we ast5dt [ counter-increment: members-count; de bta3t trkem 3dd el div 1 we 2 we 3 7ttha fe el div el r2ese we 3mlt div [beffor] we 7ttet b2et el 5saya bta3t el arkam ahe [content: counter(members-count); 7tet nfs el klama 2ly 7ttha fe el div el r2ese 3shan 5set el arkam tsht8l] ] we ast5dmt 5set [after 7tet feha content: "osama"; 3shan el klam de tzhr fe l 3 divat we 7rkthm be postin:apslote] [we da kan le dars box-shadow:]  */
+
+.shadow{
+    width: 800px;
+    height: 150px;
+    background-color: #eee;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    
+}
+
+
+
+
+.shadow0{
+    
+    width: 150px;
+    height: 150px;
+    background-color: whitesmoke;
+    margin-left: 85px;
+    display: inline-block;
+    border-radius: 50%;
+    border: 3px solid black;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: relative;
+    box-shadow: 8px 8px 2px  #00bcd4, -8px -8px 0px #e91e63;
+    counter-increment: members-count;
+}
+.shadow0::after{
+    content: "osama";
+   position: absolute;
+    top: 45px;
+    left:25px;
+    font-size: 40px;
+    
+
+}
+
+.shadow0::before{
+   content: counter(members-count);
+   position: absolute;
+   background-color: black;
+   color: white;
+   border-radius: 25px;
+   height: 50px;
+   width: 50px;
+   font-size: 42px;
+   left:30%;
+   bottom: 130px;
+   text-align: center;
+   -moz-border-radius: 25px;
+   -ms-border-radius: 25px;
+   -o-border-radius: 25px;
+   -webkit-border-radius: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        /* hna ana ast5dmt 5aya [border-radius: 14px 55px 14px 55px;] [we de t2dr beha ank t3ml shkl el div be el tre2a de 5asya mohma we t2dr mnha tzbt shkl el div mn kol el noahy btst5dm feha 4 5syat mn gme3 el atghat m3loma kol nahya ze el left kda t2dr tst5dm feha 5seten zy kda border-top-right-radius: 30px 20px; hna anta t2dr tt7km fe gnb wa7d be 30px we 20px el rokn el wa7d t2dr tt7km fe be mn atghen] we ast5dmt [box-shadow: inset -1px 0px 7px 3px #0000006b; we el 5saya de bt3ml el lwon el gwa el div we 5set inset 2ly fe el band da m3nha 23ml el lwon da5l el div t2dr trsm beha sor bne admen s3ba gdn we m7taga trkez ab2a zkrha] */
+
+.border15{
+  border: 3px solid rgb(238, 234, 234);
+  width: 200px;
+  height:110px;
+  margin: auto;
+  padding-top: 10px;
+  
+  
+
+
+
+
+}
+
+
+.border10{
+width: 100px;
+ height: 100px;
+ background-color: rgb(223, 223, 230);
+ margin-left: 25%;
+ border-radius: 14px 55px 14px 55px;
+ border: 1px solid rgb(27, 23, 23);
+ box-shadow: inset -1px 0px 7px 3px #0000006b;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      /* 3shan atl3 el shakl da ast5dmt 5saya [befor 3shan 23ml el 3mod 2l so8er 2ly fe el nos ] we ast5dmt [after] we 7tet gwha content: "Or" ; 3shan 27tha fe nos el 3mod m3loma low mknntsh ktbt fe content:"" 7aga zy kda mkntsh htzhr klmt or 3la el sf7a kont h2dr 23ml div bs beha [5lost el shar7 el task da kan m5le tst5dm ay 7aga bs t3mlo be nfs el shakl da ana 7set any zodt bnod kter 3shan 23mlo bs 3mlto zyo bzbt bs kan el mfrod fe ada2 27sn] */
+
+
+.fozy{
+    border: 3px solid rgb(238, 234, 234);
+    width: 500px;
+    height:300px;
+    margin: auto;
+   position: relative;
+   
+
+
+}
+
+
+
+.fozy0{
+    border: 1px solid rgb(238, 234, 234);
+    width: 200px;
+    height:250px;
+    display: inline-block;
+    margin-left: 20px;
+    background-color: rgb(223 223 230 / 52%);
+    margin-top: 23px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.fozy00{
+
+    border-radius: 10px;
+    border: 1px solid rgb(238, 234, 234);
+    width: 200px;
+    height:250px;
+   display: inline-block;
+    margin-left: 53px;
+    background-color: rgb(223 223 230 / 52%);
+    margin-top: 23px;
+    box-sizing: border-box;
+
+
+
+}
+
+
+
+
+
+.fozy2{
+           width:150px;
+           height: 30px;
+           background-color: blue;
+           text-align: center;
+           margin-left: 25px;
+           margin-top: 20px;
+           padding-top: 8px;
+           color: white;
+           border-radius: 5px;
+           -webkit-border-radius: 5px;
+           -moz-border-radius: 5px;
+           -ms-border-radius: 5px;
+           -o-border-radius: 5px;
+}
+
+
+.fozy3{
+    width:150px;
+    height: 150px;
+    background-color: rgb(174 174 184 / 30%);
+    border-radius:75px ;
+    margin-top: 20px;
+    margin-left: 25px;
+    -webkit-border-radius:75px ;
+    -moz-border-radius:75px ;
+    -ms-border-radius:75px ;
+    -o-border-radius:75px ;
+    position: relative;
+    color: black;
+    font-size: 30px;
+}
+.fozy3 span{
+   position: absolute;
+   top: 50px;
+   left: 53px;
+}
+
+
+.fozy::before{
+    content: "" ;
+    width: 1px;
+    height: 250px;
+    background-color: rgb(13, 53, 231);
+    position: absolute;
+    top: 24px;
+    left: 248px;
+    
+}
+
+
+
+.fozy::after{
+    content: "Or" ;
+    height: 12px;
+    width: 12px;
+    background-color: rgb(24 15 238);
+    position: absolute;
+    top: 130px;
+    left: 233px;
+    text-align: center;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    padding: 10px;
+    font-size: 11px;
+    font-weight: bold;
+    color: white;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* hna ana ast5dmt 5set [transition-duration: 2s;]we de btt7km fe w2t el t7rek anta kont 2elo e23d 2 swany et7rk  we de [transition-delay: 0.2s;] bt2olo lma 23ml hover e23d 2 swany we el 5saya el t7rek tsht8l we de [transition-property:     margin-top;] bt5tr anho 5saya mn el ktbha fe el hover tsht8k we tt7rk ln low mkntbtsh el 5syat 2ly fe el hover lma htge htshaor httfz 3la tol bdon ma t23d wa2t fe el t7rek m3loma 3shan 25le el div ely bet7rk gwa et7rk m3 el div el om bta3o 3mlt fe el class 2ly bktbo fe css ktbt name el div el om b3d kda hover lz2a fe b3d kda mastra we asm el div el so8er 2ly het7rk   */
+
+
+.t7rek{
+margin: auto;
+border: 3px solid #eee;
+width: 600px;
+height: 300px;
+position: relative;
+
+}
+
+.t7rek2{
+     border: 2px solid #eee; 
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    position: absolute;
+    top:50px;
+    left:100px;
+    background-color: #9e9e9e36;
+    transition-duration: 1s;
+    /* transition-delay: 0.1s;  */
+    overflow-x: hidden;
+    transition-property:    margin-top;
+}
+
+.t7rek2:hover{
+       
+        margin-top: -40px;
+      
+      
+    }
+
+
+.t7rek0{
+    color: rgb(252, 6, 6);
+   
+}
+
+
+
+.t7rek00{
+width: 320px;
+padding: 10px;
+text-align: center;
+border:1px solid #eee;
+position: absolute;
+left:27px;
+background-color: #272525;
+color:white;
+/* transition-duration: 2s; */
+ /* transition-delay: 0.2s;  */
+
+
+
+ transition-duration:1s;
+ /* transition-delay: 0.2s; */
+
+transition-property:     margin-top;
+
+}
+
+.t7rek2:hover .t7rek00{
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    /* hna ana 3aml div fe klma we el klma de kftha mn el div be 5saya el color:el shfaf da [color: transparent ] we tb3n 3shan 25le el lwon esht8l kan lazm 27t gnbha el 5saya de kda e3ny [color: transparent !important;] !imppor.. de e3ny bt2olo da amr sh8l el lwon 7ta low kan wa5d style fe el body 3shan low el shrka talpt t8er 7aga bdon ma t3dl 3leha fe el html wla el css fa bt7t da gnb el 5saya m3loma btsht8l 3la ay 5saya !mport.. we ast5dmt [After] we ktbt gwa band el besh8l el after  content: "Osama" ;  aho klmt osama we zhrt we 7rkyha be postian */
+
+.m5fe{
+    margin: auto;
+    width: 400px;
+    background-color: #9e9e9e4a !important;
+    border: none !important;
+    font-size:20px !important;
+    text-align: center;
+    color: transparent !important;
+    position: relative;
+}
+.m5fe::before{
+    content: "Osama" ;  
+     position: absolute; 
+    
+     color:black;
+    left:200px;
+    
+     font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                /* hna b2a ast5dmtt 5saya el [--masterColor: rgb(61, 190, 29);] we de bt3tha mcln fe el div 2ly htnfz fe el 5saya we hna ana katb name fe el 5saya el name da btsme 3la mzagk we ay 5saya 3aozo clor bt7t el name mkan el lown fa hta5d nfs el lwon 2le anta ktbo fe el 5saya 2l asasya  color: var(--masterColor); aho ktbt color: we m7ttsh asm 7tet el wasm 2ly msme m3loma btmshe 3la el border we 7gat kter m3loma msh htst5dm el 5saya de 8er low fe kam band m3enen ht3mlhm fe css m3en we htst5dmo be el band da [:root{ --masterColor: blue,  --Masterpadding:20px; we b3d kda bt7t asm el 5saya 2ly htdeha we bt7t el name 2ly smto  */
+        
+.sasa1{
+margin: auto;
+border: 1px solid whitesmoke;
+width: 600px;
+height: 200px;
+padding-top: 20px;
+}
+
+
+.sasa{
+    --masterColor: rgb(61, 190, 29);
+    border: 2px solid var(--masterColor);
+    color: var(--masterColor);
+   text-align: center;
+   margin-bottom: 50px;
+   width: 500px;
+   margin-left: 45px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* hna el swor bta3 el fontawoseme we 7ttha gwa link */
+
+.icoon{
+    color:red;
+    margin: 0% auto;
+    }
+    
+    
+    
+    
+    
+    /* hna el checkbox bta3 el zero m3mola be el anmeshn*/
+    /* ------------------------------------ */
+    /* da el div */
+    
+    .checkbox0a{
+    width: 300px;
+    height: 200px;
+        margin: 0% auto;
+        text-align: center;
+    }
+    
+    /*  */
+    /* el label */
+    .checkbox{             
+        display: inline-flex;
+        align-items: center;
+        cursor: pointer;
+        
+     
+    
+    }
+    /* da el input */
+    .checkbox--input{        
+        display: none;
+    }
+    
+    /* da el div 2ly 3ml el morb3 */  
+    .checkbox--box {
+        width: 1.25em;
+        height: 1.25em;
+       border: 2px solid #cccccc;
+       border-radius: 3px;
+       display:flex;
+       align-items: center;
+       justify-content: center;
+       margin-right: 10px;
+       flex-shrink: 0;
+       transition: background 0.15s, border-color 0.15s;
+    
+    }
+     /* da el div 3aml 3leh after bd3 ma zbto fo2 */
+    .checkbox--box::after{
+        content: "\f00c";
+    /* content: "\f00c"; */
+    font-family: "Font Awesome 5 Free";
+    font-weight: 600;
+    color:white;
+    transform: scale(0);
+    transition: transform 0.40s;
+    }
+    
+    
+    /* da el input bta3 el checkbox 2ly 5feto fo2 be disple none */
+    .checkbox--input:checked + .checkbox--box {
+    background: #2266dc;
+    border-color: #2266dc;
+    
+    
+    }
+    
+    
+    .checkbox--input:checked + .checkbox--box::after {
+    transform: scale(1);
+    }
+
+
+
+
+
+
+
+
+ /* hna ely t3bt fe checkbox 3mltha mn mok3 over flow */
+
+      
+     .checkbox4545a{           /* da el div 2ly mskhm 3shan agbhm fe el nos el wad mknsh 7ato bs ana defto */
+         width: 650px;
+         height: 300px;
+         margin: 0% auto;
+         text-align: center;
+     }
+
+
+
+
+        
+    .checkbox-green{                  /* da el input b2olo 25fe el morb3at bta3t cheeckbox */
+        display: none;
+        
+        
+        
+    }
+    
+    
+    .checkbox-green + label:before {                   /*   hna deft morb3 bardo da class el checkbox input*/
+         font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        content: "\f00c";
+        font-size: 20px;
+        color:white;                 /*de 3mlha white 3shan lwon el mrb3 abed 3shan mebnsh we meb2ash el mrb3 mtshaor 3leh gahz */ 
+      display: inline-block;
+      cursor: pointer;
+      position: relative;
+      top: 5px;
+       width: 20px;
+      height: 20px;
+      background: white;
+      margin: 5px auto ;
+     border: 1px black solid;
+      border-radius: 5px;
+      box-shadow: 0px 1px 8px 3px #4ab2bf;
+      left: -2px;
+    }
+    
+    
+    
+    .checkbox-green:hover + label:before {               /* hna da bardo el checkbox el input bs 3aml fee hover 3shan lma ashaor 3la el mrb3 2ly 3mlto be after ezhr 3lmt s7 7mra */                              
+        color: red;
+        
+        
+        }
+        
+        
+
+
+            
+
+
+        .checkbox-green:checked + label:before {                       /* hna b2olo lma eb2a el checkbox m3mol s7 aw lma ados 3leh ezhr 3lmt s7 lwonha swoda we da ahm bnd bardo mst5dm el input checkbox */
+         font-family: "Font Awesome 5 Free";
+        font-weight: 600;
+        content: "\f00c";
+        font-size: 20px;
+         color:black;
+        }
+
+
+
+
+          /* hna 3shan kont a2dr 2t7km fe el labael ely hwa el klam 2ly gnb el morb3 kan lazm 27to fe span */
+        .fot44b{                            
+    
+            position: relative;
+            left: 15px;
+            font-family: sans-serif;
+            font-weight: 700;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               /* hna mktba fontawoseme bs aykonat inmeshn */
+
+
+        .fa-3x{
+
+            text-align: center;
+           color: rgb(62, 23, 235);
+                
+
+        }
